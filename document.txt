@@ -1,2 +1,4 @@
 Ez egy git/github hazi. Minel jobban beleasom magam, annal inkabb latom, hogy meg sok mindent nem tudok. Amit ugy erzek egyik percben, hogy megy, az masik perceb lehet, hogy nem.
 Remember to back up mail files by end of week.
+Ez az elso valtoztatas
+Ez pedig a masodik valtoztatas
